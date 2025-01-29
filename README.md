@@ -1,1 +1,3 @@
 Package containing the geo shape files used by plotly.py
+
+_Note: plotly-geo was previously housed in the [Plotly.py](https://github.com/plotly/plotly.py) repository [until early 2025](https://github.com/plotly/plotly.py/pull/4972). This repository retains the Git history for all plotly-geo files, dating back to [mid-2019](https://github.com/plotly/plotly.py/pull/1604) when the Plotly.py directory structure was changed. If you want to follow the history of these files back further in time, start [here](https://github.com/plotly/plotly.py/commits/59e36cf850bdb2384ddaf40ac37ad79f691c610c/plotly-geo-package/README.md?browsing_rename_history=true&new_path=packages/python/plotly-geo/README.md&original_branch=master)._
